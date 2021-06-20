@@ -1,0 +1,6 @@
+setup.py
+FrustumRegistration.egg-info/PKG-INFO
+FrustumRegistration.egg-info/SOURCES.txt
+FrustumRegistration.egg-info/dependency_links.txt
+FrustumRegistration.egg-info/not-zip-safe
+FrustumRegistration.egg-info/top_level.txt
